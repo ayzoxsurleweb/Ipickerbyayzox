@@ -1,3 +1,10 @@
+# IPicker
+
+# Author - D3adpool2K
+
+# github - https://github.com/Deadpool2000
+
+
 
 import json
 import urllib.request
@@ -22,12 +29,12 @@ class IPAddressLocator:
         | |_____) ) ____| | _ _____ ____ 
         | | ____/ |/ ___) |_/ ) ___ |/ ___)
         | | |   | ( (___| _ (| ____| |   
-        |_|_|   |_|\____)_| \_)_____)_|  """ + self.Y + """v1.0""" + self.G + """
+        |_|_|   |_|\____)_| \_)_____)_|  """ + self.Y + """v1.2""" + self.G + """
         
         
         Simple IP Address locator
         
-        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - AYZOXSURLEWEB """ + self.Y + """----""" + self.R + """<<""")
+        """ + self.R + """>>""" + self.Y + """----""" + self.CY + """ Author - Deadpool2000 """ + self.Y + """----""" + self.R + """<<""")
 
     def m3(self):
         try:
